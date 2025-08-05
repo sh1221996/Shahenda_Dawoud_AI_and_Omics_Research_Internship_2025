@@ -36,6 +36,7 @@ All discussions, Q&A, and updates will take place on our Discord channel.
 2. Set working directory, create R project and perform some basic data type conversions
    > The complete task description is included in the Class Ib. Please refer to the script for detailed instructions
    > Please Submit your assignment via this link https://forms.gle/HxaWFHJRMnbrmJda9 Submission deadline : 5th August (Tuesday)
+   > **Submission Deadline Extended to Friday, 08 August(Midnight)**
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
