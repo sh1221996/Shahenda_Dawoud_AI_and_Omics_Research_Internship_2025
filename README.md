@@ -34,7 +34,7 @@ All discussions, Q&A, and updates will take place on our Discord channel.
 ## Tasks and Assignments
 1. Install R, RStudio & Rtools
 2. Set working directory, create R project and perform some basic data type conversions
-   > The complete task description is included in the Class Ib. Please refer to the script for detailed instructions
+   > The complete task description is included in the Class Ib. Please refer to the [R script](https://github.com/AI-Biotechnology-Bioinformatics/AI_and_Omics_Research_Internship_2025/blob/main/Module%20I-Getting%20Started%20WIth%20R-Class%20Ib.R) for detailed instructions
    > Please Submit your assignment via this link https://forms.gle/HxaWFHJRMnbrmJda9 Submission deadline : 5th August (Tuesday)  
    > **Submission Deadline Extended to Friday, 08 August(Midnight)**
 
