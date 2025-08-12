@@ -38,7 +38,7 @@ All discussions, Q&A, and updates will take place on our Discord channel.
    > The complete task description is included in the Class Ib. Please refer to the [R script](https://github.com/AI-Biotechnology-Bioinformatics/AI_and_Omics_Research_Internship_2025/blob/main/Module%20I-Getting%20Started%20WIth%20R-Class%20Ib.R) for detailed instructions
    > Please Submit your assignment via this link https://forms.gle/HxaWFHJRMnbrmJda9 Submission deadline : 5th August (Tuesday)  
    > **Submission Deadline Extended to Friday, 08 August(Midnight)**
-3. **Class Ic:** Practice the given exercises from [class Ic](https://github.com/AI-Biotechnology-Bioinformatics/AI_and_Omics_Research_Internship_2025/blob/main/Module%20I-Basic_Syntax-CLass%20Ic.R) in R and commit your code to your GitHub.
+3. **Class Ic:** Practice the given exercises from [class Ic](https://github.com/AI-Biotechnology-Bioinformatics/AI_and_Omics_Research_Internship_2025/blob/main/Module%20I-Basic_Syntax-CLass%20Ic.R) in RStudio and commit your code to your GitHub.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
