@@ -266,7 +266,7 @@ Systolic_bp <- 130
 
 # ----------------------------------------------------------------------------------------------------------------
 
-# 3. Verification:
+#  Verification:
 #    Compare the original and modified datasets to confirm changes.
 #    str(original_data)
 #    str(data)
@@ -276,3 +276,4 @@ Systolic_bp <- 130
 # Final Note:
 # All instructions are written as comments.
 # For actual code execution, remove the # symbol from each line you want to run.
+
