@@ -234,7 +234,7 @@ Systolic_bp <- 130
 
 # 3. Automating Data Type Conversion with for loop
 
-# Use patient_info.csv data and its metadata.
+# Use patient_info.csv data and metadata.csv
 # Perform the following steps separately on each dataset (data and metadata).
 # Create a copy of the dataset to work on.
 # Identify all columns that should be converted to factor type.
@@ -276,4 +276,5 @@ Systolic_bp <- 130
 # Final Note:
 # All instructions are written as comments.
 # For actual code execution, remove the # symbol from each line you want to run.
+
 
